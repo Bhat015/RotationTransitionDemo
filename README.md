@@ -1,6 +1,6 @@
 # demo_rotation_transition
 
-A new Flutter project.
+A new Flutter project
 
 ## Getting Started
 
